@@ -42,9 +42,6 @@ The system utilizes a **Dual-Database Architecture** running in Docker container
 | **Graph DB** | Neo4j | [cite_start]Handles road networks and weighted routing algorithms[cite: 506]. |
 | **AI Model** | ResNet50 / Python | [cite_start]Validates user-uploaded images for geocaching[cite: 852]. |
 
-![System Architecture](./images/architecture_diagram.png)
-*(Note: You should upload Figure 3.1 from your thesis to an 'images' folder and reference it here)*
-
 ---
 
 ## 🚀 Installation & Setup
