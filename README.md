@@ -76,7 +76,7 @@ This project uses **Docker Compose** for easy deployment.
 ---
 
 ## 📊 Performance Results
-* **Route Calculation:** Quickest routes calculate in ~78ms; [cite_start]Historical routes in ~195ms
+* **Route Calculation:** Quickest routes calculate in ~78ms; Historical routes in ~195ms
 * **Image Validation:** Average processing time of ~1.3 seconds with 80% True Positive rate
 
 ## 👥 Authors
@@ -84,5 +84,5 @@ This project uses **Docker Compose** for easy deployment.
 * **Abbas Aliyev** - *M.S.Computer Science & Data Analytics, ADA University*
 
 ## 🏫 Acknowledgments
-* **Advisor:** Stephen Kaisler [cite: 6]
+* **Advisor:** Stephen Kaisler 
 * **Institution:** ADA University & George Washington University
