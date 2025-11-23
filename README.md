@@ -6,7 +6,7 @@
 > A master's thesis project transforming urban navigation in historic districts through dual-database architecture and gamified geocaching.
 
 ## 📄 Thesis Document
-**[Download Full Master's Thesis (PDF)](./"(./Master's%20Thesis%20-%20Interactive%20Urban%20Navigation%20System%20for%20Icherisheher.pdf)*
+[Download Full Master's Thesis (PDF)](./Master's%20Thesis%20-%20Interactive%20Urban%20Navigation%20System%20for%20Icherisheher.pdf)
 *Click above to read the detailed research, methodology, and results.*
 
 ---
