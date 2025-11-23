@@ -1,0 +1,194 @@
+{
+    "geocaches": [
+      {
+            "id": 1,
+            "name": "The Diamond Arm – The Iconic Street Fall",
+            "description": "This location captures a legendary scene from the cult Soviet film 'The Diamond Arm' (*Brilliantovaya Ruka*), filmed in the narrow, winding streets of Icherisheher, Baku. The moment the character slips and falls has become one of the most memorable shots in Eastern European cinema. A display board now marks the exact filming spot.",
+            "task": "Locate the scene reproduction board and pose in the same way as the character who has fallen. Match the camera angle as close as possible.",
+            "validation": "Your photo must include the replica image board and recreate the man's pose on the sloped street, facing the same direction.",
+            "difficulty": 1,
+            "estimatedTime": "3-5 minutes",
+            "position": [40.366387, 49.834681],
+            "locationName": "Icherisheher – The Diamond Arm Scene"
+          
+        
+      },
+      
+      {
+        "id": 2,
+        "name": "Cümə Məscidi (Juma Mosque) – The Eternal Flame Connection",
+        "description": "This mosque has stood since the 12th century, but its origins go back even further. It was built on the ruins of an ancient Zoroastrian fire temple. Somewhere near the entrance, a sign or marker describes this connection. Can you find it?",
+        "task": "Locate a plaque or inscription mentioning Zoroastrians or fire worship. Take a clear photo of it.",
+        "validation": "The image must contain a visible reference to fire worship/Zoroastrianism. OCR will check for key words like 'fire', 'Zoroastrian', or 'Ateshgah'.",
+        "difficulty": 1,
+        "estimatedTime": "3-5 minutes",
+        "position": [40.3656, 49.8354],
+        "locationName": "Juma Mosque"
+      },
+      {
+        "id": 3,
+        "name": "Qoşa Qala (Twin Gates) – The Royal Crest",
+        "description": "The Twin Gates of Baku once served as the city's main entrance, protecting the inner fortress. If you look closely, you'll find a royal emblem carved above one of the gates. This emblem belonged to the ruling dynasty at the time. Can you locate it?",
+        "task": "Find the royal crest emblem above one of the Twin Gates. Take a clear photo of the emblem.",
+        "validation": "The emblem must match the carved crest on the Twin Gates. The image must include both the emblem and part of the gate's arch.",
+        "difficulty": 1,
+        "estimatedTime": "3-5 minutes",
+        "position": [40.3639, 49.8367],
+        "locationName": "Twin Gates (Qoşa Qala)"
+      },
+      {
+        "id": 4,
+        "name": "Buxara Karvansarayı (Bukhara Caravanserai) – The Forgotten Road Marker",
+        "description": "This caravanserai was a vital resting stop for traders from Bukhara. Back in the day, travelers used road markers to estimate distances. Somewhere near this caravanserai, an old stone marker still stands, hinting at its role in the Silk Road trade.",
+        "task": "Find an ancient road marker, stone sign, or directional carving. Take a clear photo of it.",
+        "validation": "The image must contain a historical stone structure with markings. The positioning and wear of the marker must match reference images.",
+        "difficulty": 2,
+        "estimatedTime": "5-15 minutes",
+        "position": [40.3672, 49.8347],
+        "locationName": "Bukhara Caravanserai"
+      },
+      {
+        "id": 5,
+        "name": "Şirvanşahlar Sarayı (Palace of the Shirvanshahs) – The Tombstone Puzzle",
+        "description": "Inside the Palace of the Shirvanshahs lies a royal tomb, where rulers were buried in peace. The tombstones here are inscribed with Arabic calligraphy, detailing the names and legacy of those buried within. One of these tombstones has an inscription ending with a specific blessing. Can you find it?",
+        "task": "Find a tombstone with an Arabic inscription ending with a blessing. Take a clear photo of it.",
+        "validation": "The inscription must be partially readable. OCR will check for common Islamic blessings like 'رحمة الله عليه' (May God have mercy on him).",
+        "difficulty": 2,
+        "estimatedTime": "5-15 minutes",
+        "position": [40.3655, 49.8339],
+        "locationName": "Palace of the Shirvanshahs"
+      },
+      {
+        "id": 6,
+        "name": "Bazar Square (Bazar Meydanı) – The Merchant's Symbol",
+        "description": "Centuries ago, Baku's marketplace was full of symbols representing different trade guilds. Somewhere in Bazar Square, a stone carving or relief still shows the mark of an ancient merchant guild. But can you find it?",
+        "task": "Find a symbol or carving representing trade, merchants, or commerce. Take a clear photo of it.",
+        "validation": "The image must include a visible merchant-related carving or design. The stone relief must match historical records.",
+        "difficulty": 2,
+        "estimatedTime": "5-15 minutes",
+        "position": [40.3651, 49.8358],
+        "locationName": "Bazar Square"
+      },
+      {
+        "id": 7,
+        "name": "Muhammet Məscidi ('Sınıqqala') – The Scarred Minaret",
+        "description": "This mosque is also known as 'Sınıqqala' (Broken Tower) because of its minaret's tragic history. Legend says a cannonball once struck the minaret, damaging its structure. But if you inspect carefully, the damage is still visible today.",
+        "task": "Find the visible damage on the minaret (crack, missing stones, or cannonball mark). Take a clear photo of the damaged section.",
+        "validation": "The image must show a clear structural imperfection matching historical damage. The surrounding stonework should be consistent with reference images.",
+        "difficulty": 3,
+        "estimatedTime": "15-20 minutes",
+        "position": [40.3660, 49.8343],
+        "locationName": "Muhammad Mosque (Sınıqqala)"
+      },
+      {
+        "id": 8,
+        "name": "Qasım Bəy Hamamı (Qasim Bey Bathhouse) & 'Şirin Hamam' – The Secret Entry Code",
+        "description": "The bathhouses of Baku were once exclusive to certain social classes, and only those who knew the right words were allowed in. Near the entrance of Qasım Bəy Hamamı, an old inscription still marks a special entry rule or bathhouse regulation. Can you find it?",
+        "task": "Locate an engraved rule, inscription, or plaque near the bathhouse entrance. Take a clear photo of it.",
+        "validation": "The text should match historical records of bathhouse rules. OCR will scan for words related to entry, hygiene, or bathhouse customs.",
+        "difficulty": 3,
+        "estimatedTime": "15-20 minutes",
+        "position": [40.3662, 49.8361],
+        "locationName": "Qasim Bey Bathhouse (Hamam)"
+      },
+      {
+        "id": 9,
+        "name": "Multani Karvansarayı (Multani Caravanserai) – The Language of Travelers",
+        "description": "Multani Caravanserai was home to Indian traders, fire-worshippers, and merchants. Somewhere on its walls, you'll find an inscription not written in Azerbaijani or Arabic—but instead in an Indian script. Can you find it?",
+        "task": "Find an inscription written in an Indian language (Sanskrit, Hindi, or Punjabi). Take a clear photo of it.",
+        "validation": "The image must contain non-Arabic and non-Azerbaijani script. OCR will check for Indian script characters.",
+        "difficulty": 3,
+        "estimatedTime": "15-20 minutes",
+        "position": [40.3648, 49.8350],
+        "locationName": "Multani Caravanserai"
+      },
+      {
+        "id": 10,
+        "name": "Baku Museum of Miniature Books – The Smallest Book",
+        "description": "This museum holds one of the world's tiniest books—so small it can barely be read without a magnifying glass. Somewhere inside, there is a book measuring just 2mm x 2mm, making it one of the smallest in the world. Can you find it?",
+        "task": "Locate the tiny book (2mm x 2mm) inside the museum. Take a clear photo of it.",
+        "validation": "The book in the image must be exceptionally small. The name of the book should be readable.",
+        "difficulty": 1,
+        "estimatedTime": "3-5 minutes",
+        "position": [40.3651, 49.8361],
+        "locationName": "Baku Museum of Miniature Books"
+      },
+      {
+        "id": 11,
+        "name": "Ta(r)dino 6 Art Platform – The Mirror Reflection",
+        "description": "Ta(r)dino 6 Art Platform is known for contemporary installations that challenge perception. One of the exhibitions includes a mirror-based artwork, reflecting both the observer and the space around them. Can you find it?",
+        "task": "Find an artwork that uses mirrors or reflection. Take a photo that captures both the artwork and its reflection.",
+        "validation": "The image must include a mirrored surface reflecting surroundings. The art installation must be part of Ta(r)dino 6 Art Platform.",
+        "difficulty": 1,
+        "estimatedTime": "3-5 minutes",
+        "position": [40.3664, 49.8353],
+        "locationName": "Ta(r)dino 6 Art Platform"
+      },
+      {
+        "id": 12,
+        "name": "Museum of Archaeology and Ethnography – The Ancient Jewelry",
+        "description": "The Museum of Archaeology and Ethnography houses artifacts from Azerbaijan's past, including jewelry from different historical periods. One particular piece of jewelry is over 1,000 years old and belonged to an ancient civilization. Can you find it?",
+        "task": "Locate an ancient piece of jewelry displayed in the museum. Take a clear photo of it.",
+        "validation": "The image must feature jewelry that looks visibly ancient. The display label or artifact description must be visible.",
+        "difficulty": 1,
+        "estimatedTime": "3-5 minutes",
+        "position": [40.3642, 49.8345],
+        "locationName": "Museum of Archaeology and Ethnography"
+      },
+      {
+        "id": 13,
+        "name": "Icherisheher Center for Traditional Arts – The Artisan's Craft",
+        "description": "The Icherisheher Center for Traditional Arts is dedicated to preserving Azerbaijani crafts. One of the rooms displays a traditional Azerbaijani carpet weaving loom that is still used by artisans today. Can you find it?",
+        "task": "Locate a carpet weaving loom inside the museum. Take a clear photo of it.",
+        "validation": "The loom must be visibly functional or in use. The image should capture the loom's frame and part of a woven carpet.",
+        "difficulty": 1,
+        "estimatedTime": "3-5 minutes",
+        "position": [40.3646, 49.8356],
+        "locationName": "Icherisheher Center for Traditional Arts"
+      },
+      {
+        "id": 14,
+        "name": "Shirvanshahs' Palace Museum – The Mysterious Inscription",
+        "description": "The Shirvanshahs' Palace has ancient inscriptions carved into its stone walls. One particular Arabic inscription found within the palace contains the name of a Shirvanshah ruler. Can you find it?",
+        "task": "Find the inscription that mentions a Shirvanshah ruler. Take a photo of the inscription.",
+        "validation": "The text must be part of a carved inscription on stone. OCR will be used to detect Arabic script and match it to historical references.",
+        "difficulty": 2,
+        "estimatedTime": "5-15 minutes",
+        "position": [40.3654, 49.8337],
+        "locationName": "Shirvanshahs' Palace Museum (Inner Court)"
+      },
+      {
+        "id": 15,
+        "name": "Museum of Azerbaijan Independence – The Secret Document",
+        "description": "This museum contains rare documents from Azerbaijan's struggle for independence. One of these documents is dated 1918 and is part of the records from the first Azerbaijani Democratic Republic. Can you find it?",
+        "task": "Locate a document from 1918 inside the museum. Take a clear photo of it.",
+        "validation": "The document must show a visible date (1918). OCR will scan for historical text references.",
+        "difficulty": 2,
+        "estimatedTime": "5-15 minutes",
+        "position": [40.3648, 49.8363],
+        "locationName": "Museum of Azerbaijan Independence"
+      },
+      {
+        "id": 16,
+        "name": "Shirvanshahs' Palace Museum – The Underground Secret",
+        "description": "Deep within the Shirvanshahs' Palace, there is a hidden underground structure, once used as a bathhouse or storage. Some say it connects to ancient tunnels beneath the city. Can you locate the entrance to this underground area?",
+        "task": "Find the entrance to the underground chamber in the palace. Take a clear photo of it.",
+        "validation": "The entrance must be part of the palace's structure. The image should capture the passageway leading underground.",
+        "difficulty": 3,
+        "estimatedTime": "15-20 minutes",
+        "position": [40.3657, 49.8340],
+        "locationName": "Shirvanshahs' Palace (Lower Level)"
+      },
+      {
+        "id": 17,
+        "name": "Icherisheher Center for Traditional Arts – The Masterpiece in Progress",
+        "description": "A master artist is currently working on a new piece of traditional Azerbaijani art inside the center. The artwork is unfinished but already showcases an impressive level of craftsmanship. Can you find the artwork in progress?",
+        "task": "Locate an unfinished traditional artwork being made in the center. Take a photo showing both the artist and the artwork.",
+        "validation": "The image must capture a partially completed piece of art. It should include the artist actively working on the piece.",
+        "difficulty": 3,
+        "estimatedTime": "15-20 minutes",
+        "position": [40.3644, 49.8357],
+        "locationName": "Icherisheher Center for Traditional Arts (Workshop)"
+      }
+    ]
+  }
