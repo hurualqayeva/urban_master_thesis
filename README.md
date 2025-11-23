@@ -37,10 +37,10 @@ The system utilizes a **Dual-Database Architecture** running in Docker container
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
-| **Frontend** | React + Leaflet + Tailwind | [cite_start]Responsive map interface and user interaction[cite: 732]. |
-| **Spatial DB** | PostgreSQL + PostGIS | [cite_start]Stores building data, POIs, and metadata[cite: 505]. |
-| **Graph DB** | Neo4j | [cite_start]Handles road networks and weighted routing algorithms[cite: 506]. |
-| **AI Model** | ResNet50 / Python | [cite_start]Validates user-uploaded images for geocaching[cite: 852]. |
+| **Frontend** | React + Leaflet + Tailwind | Responsive map interface and user interaction. |
+| **Spatial DB** | PostgreSQL + PostGIS | Stores building data, POIs, and metadata. |
+| **Graph DB** | Neo4j | Handles road networks and weighted routing algorithms. |
+| **AI Model** | ResNet50 / Python | Validates user-uploaded images for geocaching. |
 
 ---
 
@@ -55,7 +55,7 @@ This project uses **Docker Compose** for easy deployment.
 ### Steps
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/hurualqayeva/urban_master_thesis.git](https://github.com/hurualqayeva/urban_master_thesis.git)
+    git clone https://github.com/hurualqayeva/urban_master_thesis.git
     cd urban_master_thesis
     ```
 
